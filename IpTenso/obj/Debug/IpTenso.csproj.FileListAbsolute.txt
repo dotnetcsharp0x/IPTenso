@@ -1,0 +1,6 @@
+C:\Users\Dmitry\source\repos\IpTenso\IpTenso\bin\Debug\IpTenso.exe.config
+C:\Users\Dmitry\source\repos\IpTenso\IpTenso\bin\Debug\IpTenso.exe
+C:\Users\Dmitry\source\repos\IpTenso\IpTenso\bin\Debug\IpTenso.pdb
+C:\Users\Dmitry\source\repos\IpTenso\IpTenso\obj\Debug\IpTenso.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\IpTenso\IpTenso\obj\Debug\IpTenso.exe
+C:\Users\Dmitry\source\repos\IpTenso\IpTenso\obj\Debug\IpTenso.pdb

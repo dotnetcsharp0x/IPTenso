@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpTenso", "IpTenso\IpTenso.csproj", "{F9EC6448-FF91-4B94-9875-D9BC7044AFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EC6448-FF91-4B94-9875-D9BC7044AFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EC6448-FF91-4B94-9875-D9BC7044AFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EC6448-FF91-4B94-9875-D9BC7044AFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EC6448-FF91-4B94-9875-D9BC7044AFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB4FBA39-9F00-4783-8E03-5A0F3B3C5BBC}
+	EndGlobalSection
+EndGlobal
